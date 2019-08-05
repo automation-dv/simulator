@@ -1,0 +1,29 @@
+{
+   "properties" : {
+     "agent_id": {
+       "type": "string"
+     },
+     "md5": {
+       "type": "string"
+     },
+     "sha2": {
+       "type": "string"
+     },
+     "unix_time": {
+       "type": "number"
+     },
+     "file_name": {
+       "type": "string"
+     },
+     "file_path": {
+       "type": "string"
+     },
+     "file_size": {
+       "type": "integer"
+     },
+     "malicious": {
+       "type": "boolean"
+     }
+   },
+  "required" : ["agent_id", "sha2", "unix_time", "file_name", "file_path"]
+}

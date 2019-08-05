@@ -1,0 +1,10 @@
+{
+   "agent_id" : "agent-123456",
+   "md5" : "6C60CDB992CB68107226FB3AC164F445",
+   "sha2" : "75AC0310AAC4580FD0FFE0FF6B557BF02BAD5F691CDCAB33A49032A940DBC4D6",
+   "unix_time" : 1564993740,
+   "file_name" : "spotify_installer.exe",
+   "file_path" : "CSIDL_PROFILE\\appdata\\local\\spotify\\update",
+   "file_size" : 44802704,
+   "malicious" : false
+}
